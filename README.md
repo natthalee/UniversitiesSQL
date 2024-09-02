@@ -49,8 +49,7 @@ UniversitiesSQL is a relational database designed to manage and analyze informat
 
 
 ### Database diagram
-![drawSQL-image-export-2024-08-29](https://github.com/user-attachments/assets/a410d7b4-a20b-4cc7-bb53-6b32678bc66f)
-
+![drawSQL-image-export-2024-08-29](https://github.com/user-attachments/assets/7f0fddba-95e5-4f4b-bf1e-cc05b35951fc)
 
 ## Tools used
 * **Table design:** Designed tables and relationship manually.
